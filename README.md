@@ -29,5 +29,7 @@ This project uses a Convolutional Neural Network (CNN) to classify brain MRI ima
 ### 🔹 Classification Report (on test set)
 
 🙏 **Acknowledgments**
+
 Project adapted from [Mohamed Ali Habib's Brain Tumor Detection Notebook](https://github.com/MohamedAliHabib/Brain-Tumor-Detection/blob/master/Brain%20Tumor%20Detection.ipynb)
+
 Dataset provided by Masoud Nickparvar on Kaggle
