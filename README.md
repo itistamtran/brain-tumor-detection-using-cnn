@@ -28,7 +28,7 @@ This project uses a Convolutional Neural Network (CNN) to classify brain MRI ima
 
 ### 🔹 Classification Report (on test set)
 
-👨‍🏫 **Advisor: Dr. Hao Ji**
+👨‍🏫 **Advisor: Dr. Hao Ji**          
 **Semester:** Spring 2025  
 **Institution:** Cal Poly Pomona
 
